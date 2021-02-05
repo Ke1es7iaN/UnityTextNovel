@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <info>
+    <importants>7</importants>
+  </info>
+  
+  <pages>
+    <page id="1">
+      <imp>1</imp>
+      <time>5</time>
+      <text>первая реплика</text>
+      <answ1>первый ответ</answ1>
+      <answ2>второй ответ</answ2>
+      <answ3>третий ответ</answ3>
+      <answ4>конец времени ответ</answ4>
+    </page>
+    
+    <page id="11">
+      <imp>0</imp>
+      <time>-1</time>
+      <text>ты ответил первое</text>
+      <answ1>первый ответ</answ1>
+      <answ2>второй ответ</answ2>
+      <answ3>третий ответ</answ3>
+    </page>
+
+    <page id="12">
+      <imp>1</imp>
+      <time>5</time>
+      <text>ты ответил второе</text>
+      <answ1>первый ответ</answ1>
+      <answ2>второй ответ</answ2>
+      <answ3>третий ответ</answ3>
+      <answ4>конец времени ответ</answ4>
+    </page>
+
+    <page id="13">
+      <imp>0</imp>
+      <time>-1</time>
+      <text>ты ответил третье</text>
+      <answ1>первый ответ</answ1>
+      <answ2>второй ответ</answ2>
+      <answ3>третий ответ</answ3>
+    </page>
+
+    <page id="14">
+      <imp>0</imp>
+      <time>-1</time>
+      <text>ты просрал по времени</text>
+      <answ1>первый ответ</answ1>
+      <answ2>второй ответ</answ2>
+      <answ3>третий ответ</answ3>
+    </page>
+  </pages>
+</root>
